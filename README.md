@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Agronomist | Market Intelligence, Data Engineering &amp; Geospatial Analytics</b><br>
-  Market Intelligence &amp; Data at <a href="https://github.com/celeres-agro">Céleres</a> · Uberlândia, MG, Brazil
+  Market Intelligence &amp; Data at <a href="https://celeres.com.br/">Céleres</a> · Uberlândia, MG, Brazil
 </p>
 
 <p align="center">
